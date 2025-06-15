@@ -1,0 +1,166 @@
+{
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "remedy": "Perform Epley maneuvers; avoid sudden head movements; stay hydrated.",
+    "risk": "Low"
+  },
+  "AIDS": {
+    "remedy": "Adhere strictly to antiretroviral therapy (ART); maintain hygiene and nutrition.",
+    "risk": "High"
+  },
+  "Acne": {
+    "remedy": "Wash face twice daily; apply topical benzoyl peroxide or retinoids.",
+    "risk": "Low"
+  },
+  "Alcoholic hepatitis": {
+    "remedy": "Abstain from alcohol; follow liver-friendly diet; take medications as advised.",
+    "risk": "High"
+  },
+  "Allergy": {
+    "remedy": "Use antihistamines; avoid triggers; consider nasal spray if needed.",
+    "risk": "Medium"
+  },
+  "Arthritis": {
+    "remedy": "Apply heat/ice; do gentle exercise; take NSAIDs as prescribed.",
+    "risk": "Medium"
+  },
+  "Bronchial Asthma": {
+    "remedy": "Use inhalers as prescribed; avoid triggers; monitor symptoms.",
+    "risk": "Medium"
+  },
+  "Cervical spondylosis": {
+    "remedy": "Do neck exercises; apply heat packs; take NSAIDs as required.",
+    "risk": "Low"
+  },
+  "Chicken pox": {
+    "remedy": "Use calamine lotion; take paracetamol; avoid scratching lesions.",
+    "risk": "Medium"
+  },
+  "Chronic cholestasis": {
+    "remedy": "Follow low-fat diet; take cholestyramine or ursodeoxycholic acid.",
+    "risk": "Medium"
+  },
+  "Common Cold": {
+    "remedy": "Rest; hydrate; use decongestants or saline nasal spray if needed.",
+    "risk": "Low"
+  },
+  "Dengue": {
+    "remedy": "Stay hydrated; take paracetamol only; monitor for warning signs.",
+    "risk": "High"
+  },
+  "Diabetes ": {
+    "remedy": "Monitor blood sugar; exercise; restrict carbs; take medication as prescribed.",
+    "risk": "High"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "remedy": "Increase fiber; take warm sitz baths; consider topical creams.",
+    "risk": "Medium"
+  },
+  "Drug Reaction": {
+    "remedy": "Stop suspected drug under doctor guidance; take antihistamines or steroids.",
+    "risk": "Medium"
+  },
+  "Fungal infection": {
+    "remedy": "Apply antifungal cream twice daily; keep area dry and clean.",
+    "risk": "Low"
+  },
+  "GERD": {
+    "remedy": "Elevate bed head; avoid spicy/fatty foods; take antacids or PPIs.",
+    "risk": "Low"
+  },
+  "Gastroenteritis": {
+    "remedy": "Stay hydrated; use oral rehydration salts; rest and avoid dairy.",
+    "risk": "Medium"
+  },
+  "Heart attack": {
+    "remedy": "Chew aspirin; call emergency services immediately; hospitalize.",
+    "risk": "High"
+  },
+  "Hepatitis A": {
+    "remedy": "Rest; hydrate; maintain hygiene to prevent spread.",
+    "risk": "Medium"
+  },
+  "Hepatitis B": {
+    "remedy": "Follow antiviral treatment; avoid alcohol; rest and hydrate.",
+    "risk": "High"
+  },
+  "Hepatitis C": {
+    "remedy": "Take direct‐acting antivirals; monitor liver function regularly.",
+    "risk": "High"
+  },
+  "Hepatitis D": {
+    "remedy": "Manage underlying Hepatitis B; follow specialist advice.",
+    "risk": "High"
+  },
+  "Hepatitis E": {
+    "remedy": "Rest; hydrate; maintain food and water hygiene.",
+    "risk": "Medium"
+  },
+  "Hypertension ": {
+    "remedy": "Reduce salt; exercise; take BP medication as prescribed.",
+    "risk": "Medium"
+  },
+  "Hyperthyroidism": {
+    "remedy": "Take antithyroid medications; have regular endocrinologist checkups.",
+    "risk": "Medium"
+  },
+  "Hypoglycemia": {
+    "remedy": "Eat quick carbs (juice/sugar); follow with complex carbs or a snack.",
+    "risk": "Medium"
+  },
+  "Hypothyroidism": {
+    "remedy": "Take synthetic thyroid hormone daily; monitor TSH levels.",
+    "risk": "Medium"
+  },
+  "Impetigo": {
+    "remedy": "Apply topical antibiotic ointment; keep lesions clean and covered.",
+    "risk": "Medium"
+  },
+  "Jaundice": {
+    "remedy": "Rest; hydrate; follow a light diet; treat the underlying cause.",
+    "risk": "Medium"
+  },
+  "Malaria": {
+    "remedy": "Take antimalarial drugs promptly; use mosquito protection.",
+    "risk": "High"
+  },
+  "Migraine": {
+    "remedy": "Avoid triggers; lie in a dark, quiet room; take NSAIDs or triptans.",
+    "risk": "Low"
+  },
+  "Osteoarthristis": {
+    "remedy": "Do gentle joint exercises; apply heat; take pain relief suits.",
+    "risk": "Low"
+  },
+  "Paralysis (brain hemorrhage)": {
+    "remedy": "Seek emergency care; follow rehabilitation program in recovery phase.",
+    "risk": "High"
+  },
+  "Peptic ulcer diseae": {
+    "remedy": "Use PPIs or H₂ blockers; avoid NSAIDs; eat small, frequent meals.",
+    "risk": "Medium"
+  },
+  "Pneumonia": {
+    "remedy": "Take prescribed antibiotics; rest and hydrate; monitor breathing.",
+    "risk": "High"
+  },
+  "Psoriasis": {
+    "remedy": "Use topical steroids or vitamin D creams; moisturize regularly.",
+    "risk": "Low"
+  },
+  "Tuberculosis": {
+    "remedy": "Follow full course of anti-TB drugs under supervision.",
+    "risk": "High"
+  },
+  "Typhoid": {
+    "remedy": "Take appropriate antibiotics; stay hydrated; practice hygiene.",
+    "risk": "High"
+  },
+  "Urinary tract infection": {
+    "remedy": "Take prescribed antibiotics; drink plenty of water; maintain hygiene.",
+    "risk": "Medium"
+  },
+  "Varicose veins": {
+    "remedy": "Elevate legs; wear compression stockings; exercise regularly.",
+    "risk": "Low"
+  }
+}
